@@ -11,6 +11,7 @@ tex2pdf*
 .coverage
 .idea
 .vscode
+.mise.toml
 02_crowsnest/crowsnest.py
 03_picnic/picnic.py
 04_jump_the_five/jump.py
@@ -31,3 +32,4 @@ tex2pdf*
 19_wod/wod.py
 20_password/password.py
 21_tictactoe/tictactoe.py
+env
